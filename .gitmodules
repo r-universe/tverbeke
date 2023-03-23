@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "helloJavaWorld"]
+	path = helloJavaWorld
+	url = https://github.com/cran/helloJavaWorld
+	shallow = true
+	registered = true
+[submodule "km.ci"]
+	path = km.ci
+	url = https://github.com/cran/km.ci
+	shallow = true
+	registered = true
+[submodule "MLP"]
+	path = MLP
+	url = https://git.bioconductor.org/packages/MLP
+	shallow = true
+	registered = true
+[submodule "RSBJson"]
+	path = RSBJson
+	url = https://github.com/cran/RSBJson
+	shallow = true
+	registered = true
+[submodule "SDaA"]
+	path = SDaA
+	url = https://github.com/cran/SDaA
+	shallow = true
+	registered = true
+[submodule "SMCRM"]
+	path = SMCRM
+	url = https://github.com/cran/SMCRM
+	shallow = true
+	registered = true
