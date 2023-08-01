@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "helloJavaWorld"]
-	path = helloJavaWorld
-	url = https://github.com/cran/helloJavaWorld
-[submodule "km.ci"]
-	path = km.ci
-	url = https://github.com/cran/km.ci
 [submodule "MLP"]
 	path = MLP
 	url = https://git.bioconductor.org/packages/MLP
@@ -20,3 +14,9 @@
 [submodule "SMCRM"]
 	path = SMCRM
 	url = https://github.com/cran/SMCRM
+[submodule "helloJavaWorld"]
+	path = helloJavaWorld
+	url = https://github.com/cran/helloJavaWorld
+[submodule "km.ci"]
+	path = km.ci
+	url = https://github.com/cran/km.ci
