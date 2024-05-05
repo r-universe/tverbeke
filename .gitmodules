@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MLP"]
-	path = MLP
-	url = https://git.bioconductor.org/packages/MLP
 [submodule "RSBJson"]
 	path = RSBJson
 	url = https://github.com/cran/RSBJson
