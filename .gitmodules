@@ -8,9 +8,6 @@
 [submodule "SDaA"]
 	path = SDaA
 	url = https://github.com/cran/SDaA
-[submodule "SMCRM"]
-	path = SMCRM
-	url = https://github.com/cran/SMCRM
 [submodule "helloJavaWorld"]
 	path = helloJavaWorld
 	url = https://github.com/cran/helloJavaWorld
